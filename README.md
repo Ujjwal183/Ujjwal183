@@ -44,11 +44,8 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ujjwal83/Ujjwal183/output/github-contribution-grid-snake.svg" />
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ujjwal83/Ujjwal183/output/github-contribution-grid-snake.gif" />
+  
   
   <br/><br/><br/>
 </div>
